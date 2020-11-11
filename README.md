@@ -1,1 +1,1 @@
-# DenesKezdo
+# Dénes kezdő OpenCV projektje
